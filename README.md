@@ -2,7 +2,7 @@
 
 # Overview
 
-This is a fault-tolerant distributed large language model service consisting of 3 servers/nodes which will each query the Gemini API for each request. The user can choose the best answers to the query to handle hallucinations. The system is resillient by reaching consensus through Multi-Paxos.
+This is a fault-tolerant distributed large language model service consisting of 3 servers/nodes which will each query the Gemini API for each request. The user can choose the best answers to the query to handle hallucinations. The system is resilient by reaching consensus through Multi-Paxos.
 
 # Architecture
 
